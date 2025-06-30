@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">OnlyBuddy</string>
+
+    <string name="review_stars_out_of_five">%.1f/5</string>
+    <string name="profile_page_travel_by"> by %s</string>
+    <string name="travel_card_info">%1$s - %2$s · %3$d people · %4$s</string>
+    <string name="travel_card_price_range">€%1$.0f - €%2$.0f</string>
+    <string name="travel_card_price_single">€%1$.0f</string>
+
+    <!-- EXPLORE PAGE -->
+    <string name="explore_page_searchBar_placeholder">Search by title or place…</string>
+    <string name="explore_page_tab_all">All</string>"
+    <string name="explore_page_tab_favorites">Favorites</string>
+
+    <!-- NEW TRIP MODAL -->
+    <string name="modal_new_trip_title">Create new trip</string>
+    <string name="modal_new_trip_body">When you create a new trip you can either choose to start from scratch or duplicate another trip and modify it</string>
+
+    <!-- FILTERS -->
+    <string name="filters_title">Filters</string>
+    <string name="filters_price_range">Price range</string>
+    <string name="filters_duration">Duration</string>
+    <string name="filters_group_size">Group size</string>
+    <string name="filters_type">Type</string>
+    <plurals name="filters_duration_day">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <string name="filters_disabled">Any</string>
+    <string name="filters_no_travel_found">No travels found</string>
+
+    <!-- TRAVEL REVIEW PAGE -->
+    <string name="travel_review_overall">Overall travel review</string>
+    <string name="travel_review_destination">Destination:\u00A0 </string>
+    <string name="travel_review_organization">Organization\u00A0</string>
+    <string name="travel_review_assistance">Assistance:\u00A0</string>
+    <string name="travel_review_review_optional">Review (optional)</string>
+    <string name="travel_review_review_placeholder">Tell other users about your experience</string>
+    <string name="travel_review_add_photo">Add photo</string>
+    <string name="travel_review_remove_photo">Remove photo</string>
+    <string name="travel_review_buddies_review">Buddies review</string>
+    <string name="travel_review_title">%s\'s review</string>
+    <string name="travel_review_buddy_optional">%s\'s review (optional)</string>
+    <string name="travel_review_publish">Publish</string>
+    <string name="travel_review_error_star">Select at least one star for this category</string>
+    <string name="travel_review_error_thumb">The positive or negative evaluation of all companions is mandatory</string>
+
+
+    <!-- TRAVEL PAGE -->
+    <string name="travel_page_maker">By\u00A0</string>
+    <string name="travel_page_infos">Infos</string>
+    <string name="travel_page_days_from">%d days - from %s to %s</string>
+    <string name="travel_page_price_range">Price range: €%d - €%d</string>
+    <string name="travel_page_price">Price: €%d</string>
+    <string name="travel_page_location">Location: %s</string>
+    <string name="travel_page_group_people">Group of %d people</string>
+    <string name="travel_page_application_status">Application status</string>
+    <string name="travel_page_application_pending">Your application is still pending</string>
+    <plurals name="travel_page_application_already_accepted">
+        <item quantity="one">%d application has already been accepted</item>
+        <item quantity="other">%d applications have already been accepted</item>
+    </plurals>
+    <plurals name="travel_page_remaining_spots">
+        <item quantity="one">%d spots remaining</item>
+        <item quantity="other">%d spots remaining</item>
+    </plurals>
+    <plurals name="travel_page_user_opened_page">
+        <item quantity="one">%d user has opened this travel page</item>
+        <item quantity="other">%d other users have opened this travel page</item>
+    </plurals>
+    <string name="travel_application_pending">Your application is pending</string>
+    <string name="travel_application_accepted">Your application has been accepted</string>
+    <string name="travel_application_rejected">Your application has been rejected</string>
+    <string name="travel_page_reviews">Reviews (%d/%d)</string>
+    <string name="travel_page_reviews_destination">Destination:\u00A0</string>
+    <string name="travel_page_reviews_organization">Organization:\u00A0</string>
+    <string name="travel_page_reviews_assistance">Assistance:\u00A0</string>
+    <string name="travel_page_itinerary_day">Day %d</string>
+    <string name="apply_modal_description">You can apply to this trip for more buddies at once.</string>
+    <string name="apply_modal_apply_button">Apply</string>
+    <string name="apply_modal_confirm_button">Confirm</string>
+    <string name="travel_page_activity_time_range">%1$s - %2$s</string>
+
+    <!-- BUTTONS -->
+    <string name="button_apply">Apply</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_applications">Applications</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_save">Save</string>
+    <string name="button_create_from_scratch">Create from scratch</string>
+    <string name="button_duplicate_from_another_trip">Duplicate from another trip</string>
+
+    <!-- HIGHLIGHTS -->
+    <string name="highlights_title">Highlights</string>
+    <string name="highlights_scuba_diving">Scuba Diving</string>
+    <string name="highlights_adventure">Adventure</string>
+    <string name="highlights_road_trip">Road Trip</string>
+    <string name="highlights_party">Party</string>
+    <string name="highlights_museum">Museums</string>
+    <string name="highlights_sport">Sport</string>
+    <string name="highlights_nightlife">Nightlife</string>
+
+    <!-- PROFILE PAGE -->
+    <string name="profile_page_own_title">Your profile</string>
+    <string name="profile_page_others_title">%s\'s profile</string>
+    <string name="profile_page_username">\@%s</string>
+    <plurals name="profile_page_nr_travels_label">
+        <item quantity="one">Travel</item>
+        <item quantity="other">Travels</item>
+    </plurals>
+    <string name="profile_page_buddy_rating">%d%%</string>
+    <string name="profile_page_buddy_rating_label">Buddy rating</string>
+    <string name="profile_page_travels_rating">%.1f/5</string>
+    <string name="profile_page_travels_rating_label">Travels rating</string>
+    <string name="profile_page_highlights_label">Highlights</string>
+    <string name="profile_page_bio_label">Bio</string>
+    <string name="profile_page_travels_label">Travels</string>
+    <string name="profile_page_personal_info_label">Personal info</string>
+    <string name="profile_page_email">Email: %s</string>
+    <string name="profile_page_phone">Phone: %s</string>
+    <string name="profile_page_buddies_reviews">Buddy reviews (%d)</string>
+
+    <!-- CAMERA PREVIEW-->
+    <string name="camera_preview_title">Camera</string>
+
+    <!--- PROFILE EDIT PAGE -->
+
+    <string name="profile_page_your_profile">Your profile</string>
+    <string name="profile_page_your_profile_info">The information you share will help other users to know you.</string>
+    <string name="profile_page_edit_profile">Edit profile</string>
+    <string name="profile_page_edit_choose_from_gallery">Choose from gallery</string>
+    <string name="profile_page_edit_take_picture">Take a picture</string>
+    <string name="profile_page_edit_username">Username</string>
+    <string name="profile_page_edit_full_name">Full name</string>
+    <string name="profile_page_edit_phone">Phone</string>
+    <string name="profile_page_edit_personal_info">This information will not be shown to other users visiting  your profile page, but they will be available to planners of trip you applied to</string>
+    <string name="profile_page_edit_show_past_travels">Show past travels</string>
+    <string name="profile_page_edit_show_past_travels_info">Let other users know about your past travels</string>
+    <string name="profile_page_edit_save">Save</string>
+    <string name="edit_travel_page_delete">Delete</string>
+    <string name="profile_page_edit_about_you">About you</string>
+    <string name="profile_page_edit_highlights_info">Select highlights from the list below</string>
+    <string name="explore_page_no_recent_searches">Search history is empty</string>
+    <string name="travel_page_photos"> See photos</string>
+    <string name="travel_page_review">Review</string>
+    <string name="profile_update_success_toast">Profile updated successfully</string>
+    <string name="profile_update_error_toast">Failed to update profile: %s</string>
+
+    <!--- NEW TRAVEL PAGE -->
+    <string name="new_travel_page_general_info">General Info</string>
+    <string name="new_travel_page_title">Title</string>
+    <string name="new_travel_page_description">Description</string>
+    <string name="new_travel_page_location">Location</string>
+    <string name="new_travel_page_date">Date Range</string>
+    <string name="new_travel_page_price_range">Price</string>
+    <string name="new_travel_page_highlights">Highlights</string>
+    <string name="new_travel_page_itinerary">Itinerary</string>
+    <string name="new_travel_page_add_activity">Add activity</string>
+    <plurals name="new_travel_people">
+        <item quantity="one">%d person</item>
+        <item quantity="other">%d people</item>
+    </plurals>
+
+    <!--- PHOTO GALLERY PAGE -->
+    <string name="photo_gallery_title">Photos</string>
+    <string name="photo_gallery_no_photos">No photos have been uploaded yet</string>
+
+    <!-- CHAT PAGE -->
+    <plurals name="chat_view_members">
+        <item quantity="one">%d member</item>
+        <item quantity="other">%d members</item>
+    </plurals>
+
+    <!-- NOTIFICATIONS PAGE -->
+    <string name="notifications_page_title">Notifications</string>
+    <string name="notifications_page_no_notifications">You have no notifications yet</string>
+    <string name="notifications_page_error">An error occurred trying to retrieve your notifications\n Try again later</string>
+    
+    <!-- APPLICATION PAGE -->
+    <string name="applications_page_title">Applications</string>
+    <string name="applications_page_info">
+        Here you can manage the applications for this trip. You can accept or reject each applicant,
+        but please note that once you click ‘Save’, your decisions cannot be changed.&#10;
+        To view an applicant’s profile, simply click on their name.
+    </string>
+    <string name="applications_page_pending">Pending</string>
+    <string name="applications_page_accepted">Accepted</string>
+    <string name="applications_page_rejected">Rejected</string>
+    <string name="applications_page_no_applications">This travel has not received any application yet</string>
+    <string name="show_more">Show more</string>
+    <string name="mark_all_as_read">Mark all as read</string>
+    <string name="navbar_chat_label">Chat</string>
+    <string name="navbar_profile_label">Profile</string>
+    <string name="navbar_new_travel_label">New travel</string>
+    <string name="navbar_explore_label">Explore</string>
+    <string name="navbar_home_label">Home</string>
+    <string name="chats_title">Chats</string>
+    <string name="applications_page_show_buddies">Show additional buddies (%d)</string>
+    <string name="activity_mandatory">This activity is mandatory</string>
+    <string name="activity_optional">This activity is optional</string>
+    <string name="travel_review_other_ratings">Additional ratings</string>
+    <string name="travel_review_buddy_owner">(Owner)</string>
+    <string name="travel_review_photos">Photos</string>
+    <string name="edit">Edit</string>
+    <string name="travel_page_itinerary">Itinerary</string>
+    <string name="registration_page_show_past_travels_info">Let other users know about your past travels (you can change this setting later from your profile)</string>
+    <string name="travel_review_comments">Comments</string>
+    <string name="profile_page_edit_title">Edit profile</string>
+    "
+
+</resources>

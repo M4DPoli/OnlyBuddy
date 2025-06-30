@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "299403430382",
+    "project_id": "mad-eztravel",
+    "storage_bucket": "mad-eztravel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299403430382:android:71916e169dd684def1e6ff",
+        "android_client_info": {
+          "package_name": "com.example.EZTravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299403430382-030bem257cjc7i26ndjbk2lqgfpq3svr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.EZTravel",
+            "certificate_hash": "3435ad0dc2caae1e568ee3ef21635cd23fe7dfd8"
+          }
+        },
+        {
+          "client_id": "299403430382-6fmo62i3safvd0fdde0g68h0lb69vb1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.EZTravel",
+            "certificate_hash": "5c73b82469753558f5d4fa64d53e7d8f8018f357"
+          }
+        },
+        {
+          "client_id": "299403430382-7k9a31mmqleth62du46ar2u6nmvq7p4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.EZTravel",
+            "certificate_hash": "ebd154a2a4bfde866f9a1e58fcac127e6e1354ea"
+          }
+        },
+        {
+          "client_id": "299403430382-nu65741khc76t9diorc4qaslfel1om7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.EZTravel",
+            "certificate_hash": "7588eb1b94b3783cf1d30ac5c3949ebbce6b2fc8"
+          }
+        },
+        {
+          "client_id": "299403430382-tfkj5cgqr7rere98clqdth3u6sfb3ljn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.EZTravel",
+            "certificate_hash": "4f8a135c5bc35496c79700fdb5125d70f5b2d4e7"
+          }
+        },
+        {
+          "client_id": "299403430382-in44erm244h9ft6jspc10mb1vbfc24pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbiXAF1ryqlua0M2J2QwuQWLNOS6grjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299403430382-in44erm244h9ft6jspc10mb1vbfc24pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299403430382:android:31672adf386d7262f1e6ff",
+        "android_client_info": {
+          "package_name": "com.example.mad_lab_05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299403430382-5vfe1uhcbmu56oj6l6md4fpu8gvb42g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_lab_05",
+            "certificate_hash": "4f8a135c5bc35496c79700fdb5125d70f5b2d4e7"
+          }
+        },
+        {
+          "client_id": "299403430382-ft0cqlh19steflrrslrtd1g1ctrajvo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_lab_05",
+            "certificate_hash": "5c73b82469753558f5d4fa64d53e7d8f8018f357"
+          }
+        },
+        {
+          "client_id": "299403430382-nkuc7t50g3tg6sh12gr33dp00lj0gtc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_lab_05",
+            "certificate_hash": "3435ad0dc2caae1e568ee3ef21635cd23fe7dfd8"
+          }
+        },
+        {
+          "client_id": "299403430382-o3vap13lqm2qlgt8ktua0d1ehhfoml1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_lab_05",
+            "certificate_hash": "7588eb1b94b3783cf1d30ac5c3949ebbce6b2fc8"
+          }
+        },
+        {
+          "client_id": "299403430382-ueh9hsr4nrsi2qp0995rq6j04lv8sfov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_lab_05",
+            "certificate_hash": "ebd154a2a4bfde866f9a1e58fcac127e6e1354ea"
+          }
+        },
+        {
+          "client_id": "299403430382-in44erm244h9ft6jspc10mb1vbfc24pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbiXAF1ryqlua0M2J2QwuQWLNOS6grjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299403430382-in44erm244h9ft6jspc10mb1vbfc24pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
